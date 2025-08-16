@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"2d56b6715c22f046","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λ→.md","x":280,"y":320,"width":400,"height":400},
+		{"id":"76e889372cc0c926","type":"text","text":"سه تا قانون استنتاج داره،\nبه شدت ساده.","x":20,"y":400,"width":230,"height":60},
+		{"id":"854e949195612b71","type":"text","text":"##### terms on terms","x":20,"y":320,"width":230,"height":60,"color":"1"},
+		{"id":"e54bc8f68a35bde3","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/photos/Screenshot 2025-06-12 at 8.41.27 PM.png","x":-500,"y":-60,"width":400,"height":334},
+		{"id":"f1aa6f995903d3d9","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λ2.md","x":280,"y":-360,"width":400,"height":400},
+		{"id":"0234d422848727ae","type":"text","text":"##### terms on types","x":20,"y":-360,"width":230,"height":60,"color":"1"},
+		{"id":"c3e0c4ba612d918d","type":"text","text":"پنج تا قانون استنتاج داره، برای به ازای هر، دوتا قانون جدید اضافه میشه. که معرفی و حذف اونو مدیریت کنه، اینجا ترم هامون میتونن روی تایپ ها هم اپلای بشن. نماد لامبدای بزرگ هم به سیستم اضافه میشه، یعنی چی؟ یعنی یه مدل ابسترکشن جدید داریم، برای ترم هایی که به تایپ ها بستگی دارن.","x":20,"y":-280,"width":230,"height":360},
+		{"id":"f847a05c3a09414e","type":"text","text":"##### CR property","x":20,"y":-440,"width":230,"height":60,"color":"4"},
+		{"id":"2799235eb8894bf0","type":"text","text":"##### types on types","x":820,"y":-360,"width":230,"height":60,"color":"1"},
+		{"id":"928d736375b109b4","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λω_.md","x":1080,"y":-360,"width":400,"height":400},
+		{"id":"71dfc02157ebfbd1","type":"text","text":"اولین جایی که دستگاه پیچیده میشه، کانتکست دیگه ترتیب داره، چون ترتیب داره نیاز به weakening پیدا میشه همچنین ثابت های sort و kind هم اضافه میشن، قوانین درهم برهم میشه.","x":820,"y":-280,"width":230,"height":240},
+		{"id":"ba5d9be1b9c58f2f","type":"text","text":"توی فورمیشن همه‌ی s ها یکسانن","x":820,"y":-40,"width":230,"height":80},
+		{"id":"6b4a14901277c687","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λP.md","x":1080,"y":1000,"width":400,"height":400},
+		{"id":"e6f5d0a8548723e0","type":"text","text":"##### types on types","x":820,"y":1000,"width":230,"height":60,"color":"1"},
+		{"id":"903d396a992242fd","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λ-cube.md","x":1400,"y":260,"width":400,"height":400},
+		{"id":"a31212c2d0877176","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/photos/Screenshot 2025-06-20 at 6.04.04 PM.png","x":-500,"y":343,"width":400,"height":235}
+	],
+	"edges":[
+		{"id":"7967c7d88326bf97","fromNode":"2d56b6715c22f046","fromSide":"top","toNode":"f1aa6f995903d3d9","toSide":"bottom"},
+		{"id":"8ae240721e9315f7","fromNode":"2d56b6715c22f046","fromSide":"right","toNode":"928d736375b109b4","toSide":"bottom"},
+		{"id":"8ad2c2d875757228","fromNode":"2d56b6715c22f046","fromSide":"bottom","toNode":"6b4a14901277c687","toSide":"top"},
+		{"id":"bca07223c680b0f0","fromNode":"6b4a14901277c687","fromSide":"right","toNode":"903d396a992242fd","toSide":"bottom"},
+		{"id":"580c1b6fc1a09074","fromNode":"928d736375b109b4","fromSide":"right","toNode":"903d396a992242fd","toSide":"top"},
+		{"id":"48680ac4b4e1afa5","fromNode":"f1aa6f995903d3d9","fromSide":"bottom","toNode":"903d396a992242fd","toSide":"left"}
+	]
+}

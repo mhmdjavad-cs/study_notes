@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"30a78e6f296b4d9a","type":"file","file":"martin lof type theory/natural numbers/photo/Screenshot 2025-06-25 at 12.27.15 PM.png","x":-200,"y":-200,"width":179,"height":61},
+		{"id":"95e7e8ea4dd84885","type":"text","text":"این اولین قانونه که میگه خود تایپ اعداد طبیعی یه تایپه.","x":0,"y":-200,"width":250,"height":61},
+		{"id":"9f908459a5797e26","type":"text","text":"formation","x":-92,"y":-280,"width":145,"height":60,"color":"1"},
+		{"id":"091288b2e7176b2b","type":"file","file":"martin lof type theory/natural numbers/photo/Screenshot 2025-06-25 at 12.27.35 PM.png","x":-200,"y":60,"width":398,"height":64},
+		{"id":"163b37a5d5e095fb","type":"text","text":"introduction","x":-72,"y":-30,"width":152,"height":60,"color":"1"},
+		{"id":"d3cff04e6175236e","type":"text","text":"برای معرفی یک عضو از اعداد طبیعی یا یه تابع بر روی اونا، استفاده میشه.","x":-200,"y":140,"width":400,"height":60}
+	],
+	"edges":[]
+}
