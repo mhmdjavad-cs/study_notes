@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8d5260553a328479","type":"text","text":"boolean:\n$true \\equiv \\lambda x y. x$\n$false \\equiv \\lambda xy.y$\n","x":-665,"y":-300,"width":145,"height":110,"color":"1"},
+		{"id":"88066dbc288107b2","type":"text","text":"$A_+ \\equiv \\lambda xypq. xp(ypq)$\n$A_* \\equiv \\lambda xyz. x(yz)$\n$A_{exp} \\equiv \\lambda xy.yx$\n","x":-665,"y":-180,"width":185,"height":100,"color":"3"},
+		{"id":"5b2f75aa619af4ce","type":"text","text":"church numerals:\n$c_n \\equiv \\lambda fx. f^n(x)$\n\n","x":-500,"y":-300,"width":217,"height":100,"color":"4"},
+		{"id":"a4b5f620016e7823","type":"text","text":"$\\lambda - term$:\n$V ::= v|V'$\n$\\Lambda ::= V|\\Lambda \\Lambda | \\lambda V.\\Lambda$\n","x":-460,"y":-190,"width":177,"height":110,"color":"1"},
+		{"id":"9b9a3ce8ca9d8e16","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ-calculus/photos/Screenshot 2025-08-31 at 3.22.28 PM.png","x":-1120,"y":-440,"width":400,"height":90},
+		{"id":"f4f87fd2eba274f9","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ-calculus/photos/Screenshot 2025-08-31 at 4.04.07 PM.png","x":-1120,"y":-319,"width":400,"height":119},
+		{"id":"3a6ba999788e4877","x":-1120,"y":-160,"width":400,"height":220,"type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ-calculus/photos/Screenshot 2025-08-31 at 4.05.20 PM.png"},
+		{"id":"3b4c60ee2abcfcba","x":-1120,"y":100,"width":400,"height":138,"type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ-calculus/photos/Screenshot 2025-08-31 at 4.07.19 PM.png"},
+		{"id":"37d8251d68471937","x":-700,"y":-39,"width":400,"height":139,"type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ-calculus/photos/Screenshot 2025-08-31 at 4.13.31 PM.png"},
+		{"id":"98183f5c899981cc","x":-700,"y":140,"width":400,"height":170,"type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ-calculus/photos/Screenshot 2025-08-31 at 4.14.23 PM.png"},
+		{"id":"a34ec3c44c0ff8f2","x":-665,"y":-369,"width":266,"height":50,"color":"6","type":"text","text":"$zero \\equiv \\lambda n. n\\;(\\lambda y. false)\\;true$\n"}
+	],
+	"edges":[]
+}

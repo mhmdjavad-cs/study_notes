@@ -13,7 +13,7 @@
 		{"id":"71dfc02157ebfbd1","type":"text","text":"اولین جایی که دستگاه پیچیده میشه، کانتکست دیگه ترتیب داره، چون ترتیب داره نیاز به weakening پیدا میشه همچنین ثابت های sort و kind هم اضافه میشن، قوانین درهم برهم میشه.","x":820,"y":-280,"width":230,"height":240},
 		{"id":"ba5d9be1b9c58f2f","type":"text","text":"توی فورمیشن همه‌ی s ها یکسانن","x":820,"y":-40,"width":230,"height":80},
 		{"id":"6b4a14901277c687","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λP.md","x":1080,"y":1000,"width":400,"height":400},
-		{"id":"e6f5d0a8548723e0","type":"text","text":"##### types on types","x":820,"y":1000,"width":230,"height":60,"color":"1"},
+		{"id":"e6f5d0a8548723e0","type":"text","text":"##### types on terms","x":820,"y":1000,"width":230,"height":60,"color":"1"},
 		{"id":"903d396a992242fd","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/λ-cube.md","x":1400,"y":260,"width":400,"height":400},
 		{"id":"a31212c2d0877176","type":"file","file":"type theory/LAMBDA CALCULI WITH TYPES/λ - church/photos/Screenshot 2025-06-20 at 6.04.04 PM.png","x":-500,"y":343,"width":400,"height":235}
 	],

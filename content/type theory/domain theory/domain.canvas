@@ -4,19 +4,19 @@
 		{"id":"0571c8146b40b33a","type":"text","text":"خب اولا یه poset داریم و یه monotonic map که تعریفشو اینجا نوشتیم.","x":160,"y":-260,"width":250,"height":100},
 		{"id":"9d94f8c3c8f9168e","type":"file","file":"type theory/domain theory/direct.md","x":-280,"y":120,"width":400,"height":400},
 		{"id":"18dccc7e64aa4c79","type":"text","text":"بعد این میاد تبدیل میشه به مجموعه‌های direct و تعریفشو اینجا داریم. ","x":160,"y":120,"width":250,"height":120},
-		{"id":"94c2a46e88977e1e","x":-280,"y":640,"width":400,"height":400,"type":"file","file":"type theory/domain theory/تعریف predomain.md"},
-		{"id":"978c0539e5b27f80","x":160,"y":640,"width":250,"height":140,"type":"text","text":"حالا به یه poset میگیم predomain اگه direct ها همه کوچکترین کران بالا داشته باشن."},
-		{"id":"c71da3eec6374692","x":160,"y":810,"width":250,"height":110,"type":"text","text":"فقط کافیه کوچک ترین عضو هم داشته باشه تا دیگه بهش بگیم domain"},
-		{"id":"641fa3032bb2ca84","x":160,"y":960,"width":250,"height":60,"type":"text","text":"همچنین تعریف تابع پیوسته رو هم اینجا داریم."},
-		{"id":"ecdee425ec8b46be","x":-460,"y":290,"width":120,"height":60,"color":"1","type":"text","text":"#### **CPO**"},
-		{"id":"05b5b216f61a3c39","type":"text","text":"#### **PCPO**","x":-470,"y":810,"width":140,"height":60,"color":"1"}
+		{"id":"94c2a46e88977e1e","type":"file","file":"type theory/domain theory/تعریف predomain.md","x":-280,"y":640,"width":400,"height":400},
+		{"id":"978c0539e5b27f80","type":"text","text":"حالا به یه poset میگیم predomain اگه direct ها همه کوچکترین کران بالا داشته باشن.","x":160,"y":640,"width":250,"height":140},
+		{"id":"c71da3eec6374692","type":"text","text":"فقط کافیه کوچک ترین عضو هم داشته باشه تا دیگه بهش بگیم domain","x":160,"y":810,"width":250,"height":110},
+		{"id":"641fa3032bb2ca84","type":"text","text":"همچنین تعریف تابع پیوسته رو هم اینجا داریم.","x":160,"y":960,"width":250,"height":60},
+		{"id":"ecdee425ec8b46be","type":"text","text":"#### **CPO**","x":-540,"y":750,"width":120,"height":60,"color":"1"},
+		{"id":"05b5b216f61a3c39","type":"text","text":"#### **PCPO**","x":500,"y":835,"width":140,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"ddc83feba6bc764c","fromNode":"4211dc7b9953182a","fromSide":"bottom","toNode":"9d94f8c3c8f9168e","toSide":"top"},
 		{"id":"8ab52254d2e5f86f","fromNode":"9d94f8c3c8f9168e","fromSide":"bottom","toNode":"94c2a46e88977e1e","toSide":"top"},
-		{"id":"13bf005c00d15837","fromNode":"ecdee425ec8b46be","fromSide":"right","toNode":"9d94f8c3c8f9168e","toSide":"left","color":"1"},
-		{"id":"0e8e99787e7e41d3","fromNode":"05b5b216f61a3c39","fromSide":"right","toNode":"94c2a46e88977e1e","toSide":"left","color":"1"},
 		{"id":"71ffd9252a549859","fromNode":"978c0539e5b27f80","fromSide":"bottom","toNode":"c71da3eec6374692","toSide":"top"},
-		{"id":"31d38bf94b8b6263","fromNode":"c71da3eec6374692","fromSide":"bottom","toNode":"641fa3032bb2ca84","toSide":"top"}
+		{"id":"31d38bf94b8b6263","fromNode":"c71da3eec6374692","fromSide":"bottom","toNode":"641fa3032bb2ca84","toSide":"top"},
+		{"id":"bac9df31622015f8","fromNode":"ecdee425ec8b46be","fromSide":"right","toNode":"94c2a46e88977e1e","toSide":"left"},
+		{"id":"36dc117f09d854ed","fromNode":"05b5b216f61a3c39","fromSide":"left","toNode":"c71da3eec6374692","toSide":"right"}
 	]
 }
